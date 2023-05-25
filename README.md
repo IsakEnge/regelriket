@@ -1,4 +1,4 @@
-# Matteside
+# RegelRiket
 
 Dette er en side som er som en regelbok. Denne siden inneholder informasjon om Formeler og gir et eksempel på hvordan du kan bruke de.
 
