@@ -10,7 +10,7 @@ Dette er en side som er som en regelbok. Denne siden inneholder informasjon om F
 
 ## Beskrivelse
 
-HTML-filen er strukturert som følger:
+HTML-filen er strukturert som følgende:
 
 - `<!DOCTYPE html>`: Deklarasjon av HTML-dokumentet.
 - `<html>`: Rotelementet for HTML-dokumentet.
